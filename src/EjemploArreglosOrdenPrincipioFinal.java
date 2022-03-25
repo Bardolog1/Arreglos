@@ -15,6 +15,6 @@ public class EjemploArreglosOrdenPrincipioFinal {
             a[au++]=num[i];
             a[au++]=num[num.length-1-i];
         }
-        for (int nume: a) System.out.println("nume = " + nume);
+        for (int nume: a) System.out.println("nume = " + num);
     }
 }
